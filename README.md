@@ -1,4 +1,4 @@
-## **README.md Descontraído para o seu "Faz Tudo"**
+## **Pesquisa de Profissões de Mão de Obra "Faz Tudo Info" - Imersão Dev com Google Gemini**
 
 ### **O que é o Faz Tudo?**
 
