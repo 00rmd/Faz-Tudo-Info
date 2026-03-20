@@ -45,7 +45,7 @@ let dados = [
         titulo: "Padeiro",
         descricao: "O padeiro é o profissional responsável pela produção de pães, bolos, doces e outros produtos de panificação. Ele trabalha com farinhas, fermentos e outros ingredientes para criar deliciosas receitas",
         valoresMedios: ["valores medios: 1350, 2300, 3100"],
-        link: ".",
+        link: "...",
         tags: "panificação pão bolo doce fermentação massa forno confeitaria padeiro confeiteiro produção de pães produção de bolos produção de doces produção de massas panificação artesanal confeitaria personalizada pão francês pão integral pão de forma bolo de aniversário bolo de casamento cupcake"
       },
       {
